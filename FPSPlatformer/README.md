@@ -1,0 +1,1 @@
+This Folder contains some code snippets from my FPS Platformer project. This project is built on top the Unity FPS Sample project, so some code is unique, and other code is inserted into existing systems provided by Unity.
